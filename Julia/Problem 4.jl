@@ -10,7 +10,7 @@ function checkPalindrome(N)
     s == reverse(s)                            # Check if the number reversed is the same as the number (def. palindrome)
 end
 
-function BiggestPalindrome(x,y)
+function Solve(x,y)
     max = 0 
     for i in collect(x:y) 
         for j in collect(x:y)
