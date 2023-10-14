@@ -4,7 +4,7 @@
     <option name="enabledOnReformat" value="true" />
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="C:\tools\Anaconda3\Scripts\black.exe" />
-    <option name="sdkUUID" value="58d78e51-0f76-411b-95dc-ab162b35a0c7" />
+    <option name="sdkName" value="Python 3.11 (Project Euler)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Project Euler)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
 </project>
